@@ -15,7 +15,7 @@ JotDown is a simple, clean note-taking application that demonstrates React front
 
 ## Screenshot
 
-![JotDown App](https://via.placeholder.com/800x450?text=JotDown+App+Screenshot)
+![JotDown App](https://github.com/user-attachments/assets/e5f35943-c8aa-4667-8bd2-2ce441d47b53)
 
 ## Live Demo
 
